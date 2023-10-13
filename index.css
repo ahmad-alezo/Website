@@ -45,7 +45,7 @@ a {
 .btn-search{
     display: inline-block;
     color: #ffffff;
-    background-color: red;
+    background-color: #5764ec;
     background-image: linear-gradient(135deg, #ff561d 0%, #ff561d 50%, #5764ec 50%, #5764ec 100%);
     background-position: right center;
     text-align: center;
